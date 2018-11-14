@@ -4,3 +4,4 @@ import matplotlib
 import os
 import platform
 print (platform.python_version())
+print ("hi")
